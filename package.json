@@ -1,0 +1,14 @@
+{
+  "name": "fspp-fun-inventory-app",
+  "version": "1.0.0",
+  "description": "home inventory app",
+  "main": "back-end/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "inventory"
+  ],
+  "author": "Luis Ortiz",
+  "license": "ISC"
+}
